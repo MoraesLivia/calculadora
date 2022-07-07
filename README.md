@@ -1,2 +1,2 @@
 # calculadora
-Calculadora em JavaScript
+## calculadora criada em aula de JavaScript utilizando alert e prompt
